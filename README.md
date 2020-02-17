@@ -8,4 +8,4 @@ A program designed for the relay for life fund raiser for the American cancer so
 During this fund raiser students raise money for the cause and preform different activities at school and usually have a school sleepover.
 
 This program creates a database for participants and stores the donations that they recieve for their team.
-The program is funciton based uses structures to store participant and donation values.
+The program is funciton based and uses structures to store participant and donation values.
